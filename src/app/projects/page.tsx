@@ -13,7 +13,7 @@ const projectsData = [
     title: 'NetrA-I',
     description: 'Award-winning Smart CCTV project with intelligent surveillance capabilities including motion detection, heat sensing, and distance measurement.',
     longDescription: 'NetrA-I is an award-winning Smart CCTV system that uses artificial intelligence to enhance security surveillance. The system incorporates motion detection, heat sensing, and distance measurement to provide comprehensive monitoring. It can identify and track objects, detect unusual activities, and send real-time alerts to users.',
-    image: '/images/projects/netra.jpg',
+    image: '/images/projects/project1.jpg',
     technologies: ['Python', 'OpenCV', 'TensorFlow', 'Raspberry Pi', 'IoT', 'Computer Vision'],
     features: [
       'Real-time object detection and tracking',
@@ -31,7 +31,7 @@ const projectsData = [
     title: 'Vibify',
     description: 'Music Streaming Web App with playlist management, social sharing, and personalized recommendations.',
     longDescription: 'Vibify is a full-stack music streaming application that allows users to discover, play, and share music. The platform includes playlist creation and management, social sharing features, and a recommendation engine that suggests new music based on listening habits. The application was built using React.js for the frontend, Node.js and Express for the backend, and MongoDB for the database.',
-    image: '/images/projects/vibify.jpg',
+    image: '/images/projects/project2.jpg',
     technologies: ['React.js', 'Node.js', 'Express', 'MongoDB', 'Redux', 'WebAudio API'],
     features: [
       'User authentication and profiles',
@@ -49,7 +49,7 @@ const projectsData = [
     title: 'WMS Image Segmentation',
     description: 'Multi-layer U-NET model for image segmentation with 95% accuracy improvement over conventional methods.',
     longDescription: 'The WMS Image Segmentation project uses a multi-layer U-NET architecture to perform high-precision image segmentation. The model achieved a 95% improvement in accuracy compared to conventional segmentation methods. It was trained on a diverse dataset of medical images and can be applied to various domains including medical diagnostics, satellite imagery analysis, and computer vision tasks.',
-    image: '/images/projects/wms.jpg',
+    image: '/images/projects/project3.jpg',
     technologies: ['Python', 'TensorFlow', 'Keras', 'OpenCV', 'NumPy', 'Deep Learning'],
     features: [
       '95% accuracy improvement over conventional methods',
@@ -67,7 +67,7 @@ const projectsData = [
     title: 'Portfolio Website',
     description: 'Personal portfolio website built with Next.js, React, and Tailwind CSS with animations and dark mode.',
     longDescription: 'A modern, responsive portfolio website built with Next.js, React, and Tailwind CSS. The site features smooth animations powered by Framer Motion, a dark/light mode toggle, and responsive design. It showcases projects, skills, and experience in an interactive and engaging way.',
-    image: '/images/projects/portfolio.jpg',
+    image: '/images/projects/project4.jpg',
     technologies: ['Next.js', 'React', 'TypeScript', 'Tailwind CSS', 'Framer Motion', 'Vercel'],
     features: [
       'Responsive design for all devices',
