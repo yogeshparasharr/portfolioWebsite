@@ -33,8 +33,8 @@ export default function ContactCTA() {
             <ContactInfo 
               icon={<FaGithub size={24} />}
               title="GitHub"
-              info="github.com/your-username"
-              link="https://github.com/your-username"
+              info="https://github.com/yogeshparasharr"
+              link="https://github.com/yogeshparasharr"
               delay={0.2}
             />
             <ContactInfo 

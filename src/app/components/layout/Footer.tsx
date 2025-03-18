@@ -53,7 +53,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4 text-purple-600 dark:text-purple-400">Connect</h3>
             <div className="flex space-x-4">
-              <SocialIcon href="https://github.com/your-username" icon={<FaGithub size={24} />} label="GitHub" />
+              <SocialIcon href="https://github.com/yogeshparasharr" icon={<FaGithub size={24} />} label="GitHub" />
               <SocialIcon href="https://linkedin.com/in/yogeshparasharr" icon={<FaLinkedin size={24} />} label="LinkedIn" />
             </div>
           </div>

@@ -92,7 +92,7 @@ export default function ContactPage() {
           <div className="flex space-x-4">
             <SocialIcon 
               icon={<FaGithub size={20} />} 
-              href="https://github.com/your-username" 
+              href="https://github.com/yogeshParasharr" 
               label="GitHub"
               color="bg-gray-800 dark:bg-gray-700 hover:bg-gray-700"
             />

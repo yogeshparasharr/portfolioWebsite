@@ -83,7 +83,7 @@ export default function HeroSection() {
             transition={{ delay: 1.5, duration: 0.5 }}
             className="flex items-center mt-8 space-x-4"
           >
-            <SocialIcon href="https://github.com/your-username" icon={<FaGithub size={20} />} label="GitHub" />
+            <SocialIcon href="https://github.com/yogeshparasharr" icon={<FaGithub size={20} />} label="GitHub" />
             <SocialIcon href="https://linkedin.com/in/yogeshparasharr" icon={<FaLinkedin size={20} />} label="LinkedIn" />
             <ContactInfo icon={<FaEnvelope size={20} />} text="yogeshparasharr@gmail.com" href="mailto:yogeshparasharr@gmail.com" />
             <ContactInfo icon={<FaPhone size={20} />} text="+91-9522355666" href="tel:+919522355666" />
